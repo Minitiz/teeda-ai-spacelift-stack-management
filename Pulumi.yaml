@@ -1,0 +1,7 @@
+name: spacelift-management
+description: Spacelift landing zone
+runtime: go
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
